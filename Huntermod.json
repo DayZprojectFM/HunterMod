@@ -1,9 +1,5 @@
 {
-    "177.200.64.1" :["DontDie","MiniMapa"],
-    "177.200.64.2" :["DontDie","MiniMapa"],
-    "177.200.64.3" :["DontDie","MiniMapa"],
-    "177.200.64.4" :["DontDie","MiniMapa"],
-    "177.200.64.225" :["DontDie","MiniMapa","HunterCore"],
+    "177.200.64.125" :["DontDie","MiniMapa","HunterCore"],
     "webhookdiscord" :
     [
         "https://discord.com/api/webhooks/1291578369762267166/97xdJPSahNljzYJeLtvWgXHAYZGj1kHWxNu82UAUWYMiSjNhgZhHbYMuvZDsHkU_uVss",
