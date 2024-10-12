@@ -6,6 +6,7 @@
     "177.200.64.25" :["DontDie","MiniMapa"],
     "webhookdiscord" :
     [
+        "https://discord.com/api/webhooks/1291578369762267166/97xdJPSahNljzYJeLtvWgXHAYZGj1kHWxNu82UAUWYMiSjNhgZhHbYMuvZDsHkU_uVss",
         "https://discord.com/api/webhooks/1291578369762267166/97xdJPSahNljzYJeLtvWgXHAYZGj1kHWxNu82UAUWYMiSjNhgZhHbYMuvZDsHkU_uVss"
     ]
 }
