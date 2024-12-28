@@ -1,6 +1,7 @@
 {
     "177.200.64.215" :["DontDie","MiniMapa","HunterCore"],
     "177.200.64.225" :["[BR]Hunter","HunterCoreDontDie","DontDie"],
+    "2804:10dc:d3e1:eb00:2874:e764:173e:1d24" :["unauthorized"],
     "webhookdiscord" :
     [
         "https://discord.com/api/webhooks/1291578369762267166/97xdJPSahNljzYJeLtvWgXHAYZGj1kHWxNu82UAUWYMiSjNhgZhHbYMuvZDsHkU_uVss",
