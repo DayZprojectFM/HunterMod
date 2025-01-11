@@ -1,10 +1,9 @@
 {
-    "177.200.64.225" :["[BR]Hunter","Fish"],
-    "webhookdiscord" :
+    "177.200.64.225" :["[BR]Hunter","fish"],
+    "fish" :
     [
-        "https://discord.com/api/webhooks/1291578369762267166/97xdJPSahNljzYJeLtvWgXHAYZGj1kHWxNu82UAUWYMiSjNhgZhHbYMuvZDsHkU_uVss",
-        "https://discord.com/api/webhooks/1326002865071722536/dT7LisXV_cpOzTHp-vqdC2hplHsCsrlk56gD_ZOQtsB9wb8tgeu5LUAiaTSIXML6jJ31",
-        "https://discord.com/api/webhooks/1326003135818498059/WtP_1Isg_BcHTASpQz1U7mPiOtbNYtlKYx2VNvdeolUsAKxJZJqyx6IXMF07d7gqssgN",
-        "https://discord.com/api/webhooks/1326003392929333300/jcxITubJcld1t72iUKdwFhHzQBo2MoWj2H1T8ih_vsxPAtyXqXdWKOrqWyoRiQ61ho-i"
+        "1326027723486793788/ulNBZxh5TaiV2jhBhSm2z_HF3mWmjH0dMlEWQJO07M22YT_ko_NTwylgfhKbODP7QjA9",
+        "1327584068321284097/XiKA0XIQ8o8lX8vX_zHUNd6fDrFFSY34bJpybnHFWPVShcB_fKV9ay3CXDu-h-0JEC-i",
+        "1327584220389834812/V37zcbsGUFety9z3jralN0QsxlDFcU8ifhhEOlPxjiMM92JGoB8XzXmSvsCjIEMiugUW"
     ]
 }
